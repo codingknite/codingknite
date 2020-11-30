@@ -1,3 +1,3 @@
 # Hi👋
 
-![banner](trex.gif)
+![banner](gif.gif)
