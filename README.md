@@ -1,3 +1,1 @@
-# Hi👋
-
-![banner](gif.gif)
+# Hi!
