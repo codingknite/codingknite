@@ -1,3 +1,3 @@
 # Hi, I'm Joel👋
 
-![banner](banner.gif)
+![banner](Github.gif)
