@@ -1,6 +1,6 @@
 ![banner](trex.gif)
 
 <div align="center">
-<b><h1>Hi👋</h1></b>
-<b><h3>I'm Joel</h3><b>
+<h1><strong>Hi👋</strong></h1>
+<h2><strong>I'm Joel</strong></h2>
 </div>
