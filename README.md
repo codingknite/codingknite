@@ -1,4 +1,4 @@
-![banner](Gif.gif)
+![banner](trex.gif)
 
 <div align="center">
 <b><h1>Hi👋</h1></b>
