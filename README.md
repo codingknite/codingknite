@@ -2,9 +2,9 @@
 <h1><strong>Hi👋</strong></h1>
 </div>
 
-![gif](gif.gif)
+![gif](readme.gif)
 
-## I'm [Joel](https://www.linkedin.com/in/joelpm/) <img width=20 src="icons/verified.png">
+# I'm [Joel](https://www.linkedin.com/in/joelpm/) <img width=20 src="icons/twitter-v.svg">
 
 Am a software developer.
 I love writing technical articles and when am not writing, am contributing to open source and working on my personal projects.
