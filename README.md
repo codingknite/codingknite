@@ -20,9 +20,7 @@ Some of the things I've been working on include:
 
 ## Tools I Use
 
-[<img width=40 src="icons/vscode.png">]()
-[<img width=40 src="icons/github.png">]()
-[<img width=40 src="icons/notion.png">]()
+<img width=40 src="icons/vscode.png"> <img width=40 src="icons/github.png"> <img width=40 src="icons/notion.png">
 
 ## Where I Hangout
 
