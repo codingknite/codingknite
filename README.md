@@ -32,9 +32,9 @@ Some of the things I've been working on include:
 
 <br>
 
-[<img width=40 src="icons/vscode.png">]()
-[<img width=40 src="icons/github.png">]()
-[<img width=40 src="icons/notion.png">]()
+<img width=40 src="icons/vscode.png">
+<img width=40 src="icons/github.png">
+<img width=40 src="icons/notion.png">
 
 <br>
 <br>
