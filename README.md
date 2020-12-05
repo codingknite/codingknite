@@ -35,6 +35,11 @@ Some of the things I've been working on include:
 <img width=40 src="icons/github.png">
 <img width=40 src="icons/notion.png">
 
+[<img width=40 src="icons/twitter.png">](https://twitter.com/joelpmugalu)
+[<img width=40 src="icons/linkedin.png">](https://ug.linkedin.com/in/joelpm)
+[<img width=40 src="icons/dev2.png">](https://dev.to/codingknite)
+[<img width=40 src="icons/fcc.png">](https://www.freecodecamp.org/news/author/joelpm/)
+
 <br>
 <br>
 
