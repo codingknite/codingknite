@@ -16,13 +16,7 @@ Some of the things I've been working on include:
 
 ## My Skills
 
-[<img width=40 src="icons/javascript.png">]()
-[<img width=40 src="icons/typescript.png">]()
-[<img width=40 src="icons/react.png">]()
-[<img width=40 src="icons/redux.png">]()
-[<img width=40 src="icons/node.png">]()
-[<img width=40 src="icons/express.png">]()
-[<img width=40 src="icons/graphql.png">]()
+<img width=40 src="icons/javascript.png"> <img width=40 src="icons/typescript.png"> <img width=40 src="icons/react.png"> <img width=40 src="icons/redux.png"> <img width=40 src="icons/node.png"> <img width=40 src="icons/express.png"> <img width=40 src="icons/graphql.png">
 
 ## Tools I Use
 
