@@ -4,7 +4,7 @@
 
 ![gif](readme.gif)
 
-# I'm [Joel](https://www.linkedin.com/in/joelpm/) <img width=20 src="icons/verified.svg">
+# I'm Joel <img width=20 src="icons/verified.svg">
 
 Am a software developer.
 I love writing technical articles and when am not writing, am contributing to open source and working on my personal projects.
