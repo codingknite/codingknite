@@ -24,8 +24,15 @@ Some of the things I've been working on include:
 <img width=40 src="icons/express.png">
 <img width=40 src="icons/graphql.png">
 
-<br>
-<br>
+[<img width=40 src="icons/javascript.png">]()
+[<img width=40 src="icons/typescript.png">]()
+[<img width=40 src="icons/react.png">]()
+[<img width=40 src="icons/redux.png">]()
+[<img width=40 src="icons/node.png">]()
+[<img width=40 src="icons/express.png">]()
+[<img width=40 src="icons/graphql.png">]()
+
+</br>
 
 ## Tools I Use
 
