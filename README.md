@@ -16,11 +16,15 @@ Some of the things I've been working on include:
 
 ## My Skills
 
-<img width=40 src="icons/javascript.png"> <img width=40 src="icons/typescript.png"> <img width=40 src="icons/react.png"> <img width=40 src="icons/redux.png"> <img width=40 src="icons/node.png"> <img width=40 src="icons/express.png"> <img width=40 src="icons/mongodb.webp"> <img width=40 src="icons/graphql.png">
+<img width=40 src="icons/javascript.png"> <img width=45 src="icons/html.png"> <img width=45 src="icons/css.webp"> <img width=45 src="icons/sass.png"> <img width=40 src="icons/react.png">
+
+## Skills Am Learning
+
+<img width=40 src="icons/typescript.png"> <img width=40 src="icons/redux.png"> <img width=40 src="icons/node.png"> <img width=40 src="icons/express.png"> <img width=40 src="icons/mongodb.webp"> <img width=40 src="icons/graphql.png">
 
 ## Tools I Use
 
-<img width=40 src="icons/vscode.png"> <img width=40 src="icons/git.png"> <img width=40 src="icons/github.png"> <img width=40 src="icons/notion.png"> <img width=41 src="icons/webpack.png">
+<img width=40 src="icons/vscode.png"> <img width=40 src="icons/git.png"> <img width=40 src="icons/github.png"> <img width=41 src="icons/webpack.png"> <img width=40 src="icons/notion.png">
 
 ## Where I Hangout
 
@@ -34,5 +38,3 @@ Some of the things I've been working on include:
 <p align="center">
 
 <img width="99%" src="https://github-readme-stats.vercel.app/api?username=mojpm&show_icons=true&theme=gotham&custom_title=Joel's GitHub Stats" />
-
-
