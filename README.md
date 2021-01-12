@@ -11,8 +11,8 @@ I love writing technical articles and when am not writing, am contributing to op
 
 Some of the things I've been working on include:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mojpm&repo=frontend-development&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mojpm&repo=scavenger&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codingknite&repo=frontend-development&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codingknite&repo=scavenger&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skills
 
@@ -37,4 +37,4 @@ Some of the things I've been working on include:
 
 <p align="center">
 
-<img width="99%" src="https://github-readme-stats.vercel.app/api?username=mojpm&show_icons=true&theme=gotham&custom_title=Joel's GitHub Stats" />
+<img width="99%" src="https://github-readme-stats.vercel.app/api?username=codingknite&show_icons=true&theme=gotham&custom_title=Joel's GitHub Stats" />
