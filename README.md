@@ -10,7 +10,7 @@ I'm currently working on personal projects while learning Typescript and GraphQL
 
 - Networking on [LinkedIn](https://linkedin.com/in/codingknite)
 - Learning in public on [Twitter](https://twitter.com/CodingKnite)
-- Blogging at [Dev](https://dev.to/codingknite) and [freeCodeCamp](https://freecodecamp.org/news/author/codingknite)
+- Blogging on [Dev](https://dev.to/codingknite) and [freeCodeCamp](https://freecodecamp.org/news/author/codingknite)
 - On and off relationship with [Medium](https://medium.com/@codingknite)
 - Irregular Dev updates on [Instagram](https://instagram.com/codingknite)🤪
 
