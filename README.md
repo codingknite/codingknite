@@ -2,7 +2,7 @@
 
 ## Hey, I'm Joel!👋
 
-Am a JavaScript Engineer currently working with React and Node. I'm also into writing and open source.
+Am a JavaScript Developer currently working with React and Node. I'm also into writing and open source.
 
 I'm currently working on personal projects while learning Typescript and GraphQL.
 
@@ -16,6 +16,6 @@ I'm currently working on personal projects while learning Typescript and GraphQL
 
 Last and very least, I've been known to play Dino T-Rex with a blazing highscore of **1048**😎
 
-Wait, Could it be that am messing around with a world record?🤔
+Yep, You heard that right **1048** and I got proof 👇
 
 ![gif](readme.gif)
