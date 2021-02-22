@@ -12,10 +12,4 @@ I'm currently working on personal projects while learning Typescript and GraphQL
 - Learning in public on [Twitter](https://twitter.com/CodingKnite)
 - Blogging on [Dev](https://dev.to/codingknite) and [freeCodeCamp](https://freecodecamp.org/news/author/codingknite)
 - On and off relationship with [Medium](https://medium.com/@codingknite)
-- Irregular Dev updates on [Instagram](https://instagram.com/codingknite)🤪
-
-Last and very least, I've been known to play Dino T-Rex with a blazing highscore of **1048**😎
-
-Yep, You heard that right **1048** and I got proof 👇
-
-![gif](readme.gif)
+- Documenting my journey on [Instagram](https://instagram.com/codingknite)📸
