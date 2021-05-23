@@ -12,3 +12,5 @@ Working on personal projects and learning Typescript and GraphQL.
 - Learning in public on [Twitter](https://twitter.com/codingknite)
 - Blogging at [Dev](https://dev.to/codingknite) and [freeCodeCamp](https://freecodecamp.org/news/author/codingknite)
 - On and off relationship with [Medium](https://medium.com/@codingknite)
+
+![Visitor Count](https://profile-counter.glitch.me/{codingknite}/count.svg)
