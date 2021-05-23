@@ -13,4 +13,8 @@ Working on personal projects and learning Typescript and GraphQL.
 - Blogging at [Dev](https://dev.to/codingknite) and [freeCodeCamp](https://freecodecamp.org/news/author/codingknite)
 - On and off relationship with [Medium](https://medium.com/@codingknite)
 
-![Visitor Count](https://profile-counter.glitch.me/{codingknite}/count.svg)
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codingknite&show_icons=true&theme=gotham" alt="Joel P. Mugalu | Stats" />
+  
+![Visitor Count](https://profile-counter.glitch.me/{gaeaon}/count.svg)
