@@ -8,7 +8,7 @@ JavaScript Developer working with React and Typesctipt. I'm also into writing an
 * I’m also working on personal projects.
 * Looking to collaborate on Open source projects
 
-## My hangout spots around the web
+## Hangout spots around the web
 
 - Networking on [**LinkedIn**](https://linkedin.com/in/codingknite)
 - Learning in public on [**Twitter**](https://twitter.com/codingknite) 
