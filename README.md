@@ -5,7 +5,7 @@
 Am a JavaScript Developer in love with React, Node and Typesctipt (killer combo IMO). My current focus is on the FrontEnd although I've also worked on the BackEnd.
 I enjoy writing articles and contributing to open source projects. I also love catching up with other developers. Feel free to reach out on [Twitter](https://twitter.com/codingknite). My DMs are open.
 
-- 🔭 I’m currently working on my portfolio projects
+- 🔭 I’m currently working on my [portfolio](https://codingknite.com) projects
 - 🌱 I’m also learning GraphQL and Redux
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Reach out if you need help with React and JavaScript
@@ -40,9 +40,11 @@ I enjoy writing articles and contributing to open source projects. I also love c
 
 ## Find me around the web 🌍
 
-- [**Dev.to**](https://dev.to/codingknite)
+- [**Portfolio**](https://codingknite.com)
 - [**Twitter**](https://twitter.com/codingknite)
 - [**LinkedIn**](https://www.linkedin.com/in/joelmugalu)
+- [**Blog**](https://blog.codingknite.com)
+- [**Dev.to**](https://dev.to/codingknite)
 - [**freeCodeCamp**](https://freecodecamp.org/news/author/codingknite)
 
 ********
