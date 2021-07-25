@@ -40,7 +40,7 @@ I enjoy writing articles and contributing to open source projects. I also love c
 
 ## Find me around the web 🌍
 
-- [**Portfolio**](https://codingknite.com)
+- [**Website**](https://codingknite.com)
 - [**Twitter**](https://twitter.com/codingknite)
 - [**LinkedIn**](https://www.linkedin.com/in/joelmugalu)
 - [**Blog**](https://blog.codingknite.com)
