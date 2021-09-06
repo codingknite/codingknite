@@ -6,7 +6,7 @@ Am a JavaScript Developer in love with React, Node and TypeScript (killer combo 
 I enjoy writing articles and contributing to open source projects. I also love catching up with other developers. Feel free to reach out on [Twitter](https://twitter.com/codingknite). My DMs are open.
 
 - 🔭 I’m currently working on my portfolio projects
-- 🌱 I’m also learning GraphQL and Redux
+- 🌱 I’m also learning GraphQL
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Reach out if you need help with React and JavaScript
 - 🤔 Reach out if you can offer help with Backend & APIs
