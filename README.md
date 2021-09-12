@@ -5,12 +5,12 @@
 Am a JavaScript Developer in love with React, Node and TypeScript (killer combo IMO). My current focus is on the FrontEnd although I've also worked on the BackEnd.
 I enjoy writing articles and contributing to open source projects. I also love catching up with other developers. Feel free to reach out on [Twitter](https://twitter.com/codingknite). My DMs are open.
 
-- 🔭 I’m currently working on my portfolio projects
-- 🌱 I’m also learning GraphQL
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Reach out if you need help with React and JavaScript
-- 🤔 Reach out if you can offer help with Backend & APIs
-- 📫 How to reach me: [**itsjoelpm@gmail.com**](mailto:itsjoelpm@gmail.com) & [**LinkedIn**](https://linkedin.com/in/joelmugalu)
+- 🔭 Currently working on my portfolio projects
+- 🌱 Learning GraphQL
+- 👯 Looking to collaborate on open source projects
+- 💬 Feel free to reach out if you need help with React and JavaScript
+- 🤔 Feel free to reach out if you can offer help with Backend & APIs
+- 📫 How to reach me: Mail me at [**itsjoelpm@gmail.com**](mailto:itsjoelpm@gmail.com) OR [**LinkedIn**](https://linkedin.com/in/joelmugalu)
 
 
 ## Skills 🚀
