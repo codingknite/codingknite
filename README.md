@@ -1,16 +1,15 @@
 ![gif](programming.gif)
 
-## **Hey, I'm [Joel!](https://codingknite.com)** 👋
+## **Hey, I'm Joel! 👋
 
-Am a JavaScript Developer in love with React, Node and TypeScript (killer combo IMO). My current focus is on the FrontEnd although I've also worked on the BackEnd.
+Am a JavaScript Developer working with React, Node and TypeScript. My current focus is on the FrontEnd although I've also worked on the BackEnd.
 I enjoy writing articles and contributing to open source projects. I also love catching up with other developers. Feel free to reach out on [Twitter](https://twitter.com/codingknite). My DMs are open.
 
-- 🔭 Currently working on my portfolio projects
 - 🌱 Learning GraphQL
-- 👯 Looking to collaborate on open source projects
+- 🔭 Working on open source projects
+- 👯 Open to collaborate on projects
 - 💬 Feel free to reach out if you need help with React and JavaScript
-- 🤔 Feel free to reach out if you can offer help with Backend & APIs
-- 📫 How to reach me: Mail me at [**itsjoelpm@gmail.com**](mailto:itsjoelpm@gmail.com) OR [**LinkedIn**](https://linkedin.com/in/joelmugalu)
+- 📫 Reach me at [**itsjoelpm@gmail.com**](mailto:itsjoelpm@gmail.com) OR [**LinkedIn**](https://linkedin.com/in/joelmugalu)
 
 
 ## Skills 🚀
