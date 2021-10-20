@@ -1,6 +1,6 @@
 ![gif](programming.gif)
 
-## **Hey, I'm Joel! 👋
+## **Hey, I'm Joel!** 👋
 
 Am a JavaScript Developer working with React, Node and TypeScript. My current focus is on the FrontEnd although I've also worked on the BackEnd.
 I enjoy writing articles and contributing to open source projects. I also love catching up with other developers. Feel free to reach out on [Twitter](https://twitter.com/codingknite). My DMs are open.
