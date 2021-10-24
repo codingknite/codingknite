@@ -9,7 +9,7 @@ I enjoy writing articles and contributing to open source projects. I also love c
 - 🔭 Working on open source projects
 - 👯 Open to collaborate on projects
 - 💬 Feel free to reach out if you need help with React and JavaScript
-- 📫 Reach me at [**itsjoelpm@gmail.com**](mailto:itsjoelpm@gmail.com) OR [**LinkedIn**](https://linkedin.com/in/joelmugalu)
+- 📫 Reach me at [**joel@verto.exchange**](joel@verto.exchange) OR [**LinkedIn**](https://linkedin.com/in/joelmugalu)
 
 
 ## Skills 🚀
