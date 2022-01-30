@@ -2,12 +2,11 @@
 
 ## **Hey, I'm Joel!** 👋
 
-I'm a JavaScript Developer working with React, Node and TypeScript. I enjoy writing articles and contributing to open source projects. I also love catching up with other developers. Feel free to reach out on [Twitter](https://twitter.com/codingknite). My DMs are open.
+I'm a JavaScript Developer working with React and TypeScript. I enjoy writing articles and contributing to open source project.
 
-- 🌱 Learning GraphQL
+- 🌱 Looking to learn Rust
 - 🔭 Working on open source projects
-- 👯 Open to collaborate on projects
-- 📫 Reach me at [**joel@verto.exchange**](joel@verto.exchange) OR [**LinkedIn**](https://linkedin.com/in/joelmugalu)
+- 📫 Reach me at [**itsjoelpm@gmail.com**](itsjoelpm@gmail.com) OR [**LinkedIn**](https://linkedin.com/in/joelmugalu)
 
 
 ## Skills 🚀
