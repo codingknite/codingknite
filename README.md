@@ -2,7 +2,7 @@
 
 ## **Hey, I'm Joel!** 👋
 
-I'm a JavaScript Developer working with React and TypeScript. I enjoy writing articles and contributing to open source project.
+I'm a JavaScript Developer working with React and TypeScript. I enjoy writing articles and contributing to open source.
 
 - 🌱 Looking to learn Rust
 - 🔭 Working on open source projects
