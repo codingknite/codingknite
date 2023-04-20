@@ -6,7 +6,7 @@ I'm an Indiehacker building with React and TypeScript.
 
 - 🌱 Looking to learn Rust
 - 📝 Documenting building startups and solo founding on [**Twitter**](https://twitter.com/codingknite)
-- 📫 Reach me on [**Twitter**](https://twitter.com/codingknite) or mail me at [**itsjoelpm@gmail.com**](itsjoelpm@gmail.com)
+- 📫 Reach me on [**Twitter**](https://twitter.com/codingknite) or mail me at **itsjoelpm@gmail.com**
 
 ## Recent Articles ✍️
 
