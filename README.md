@@ -4,7 +4,7 @@
 
 I'm an Indiehacker building with React and TypeScript.
 
-- 🌱 Looking to learn Rust
+- 🌱 Exploring the [**Arweave**](https://arweave.org/) Ecosystem
 - 📝 Documenting building startups and solo founding on [**Twitter**](https://twitter.com/codingknite)
 - 📫 Reach me on [**Twitter**](https://twitter.com/codingknite) or mail me at **itsjoelpm@gmail.com**
 
