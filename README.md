@@ -2,10 +2,10 @@
 
 ## **Hey, I'm Joel!** 👋
 
-I'm an Indiehacker building with React and TypeScript.
+I'm a FrontEnd developer building with React and TypeScript.
 
 - 🌱 Exploring the [**Arweave**](https://arweave.org/) Ecosystem
-- 📝 Documenting building startups and solo founding on [**Twitter**](https://twitter.com/codingknite)
+- 📝 Documenting building products on [**Twitter**](https://twitter.com/codingknite)
 - 📫 Reach me on [**Twitter**](https://twitter.com/codingknite) or mail me at **itsjoelpm@gmail.com**
 
 ## Recent Articles ✍️
