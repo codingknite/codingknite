@@ -2,13 +2,12 @@
 
 ## **Hey, I'm Joel!** 👋
 
-I'm a FrontEnd developer building with React and TypeScript.
+I'm a FrontEnd developer building with React, React Native and TypeScript.
 
-- 🌱 Exploring the [**Arweave**](https://arweave.org/) Ecosystem
 - 📝 Documenting building products on [**Twitter**](https://twitter.com/codingknite)
 - 📫 Reach me on [**Twitter**](https://twitter.com/codingknite) or mail me at **itsjoelpm@gmail.com**
 
-## Recent Articles ✍️
+## Past Articles ✍️
 
 - [Learn TypeScript Basics in this Beginner's Guide](https://www.freecodecamp.org/news/learn-typescript-basics/)
 - [Functional Programming in JavaScript Explained in Plain English](https://www.freecodecamp.org/news/functional-programming-in-javascript-explained-in-plain-english/)
